@@ -1,4 +1,5 @@
-### petrichuk
+###  **Discord**: [petrichuk](https://discord.com/users/petrichuk)
+
 
 <!--
 **aleksandrpetrecuk/aleksandrpetrecuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
